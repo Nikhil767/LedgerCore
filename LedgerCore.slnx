@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LedgerCore.Domain/LedgerCore.Domain.csproj" />
+  <Project Path="LedgerCore.Engine/LedgerCore.Engine.csproj" />
+  <Project Path="LedgerCore.Tests/LedgerCore.Tests.csproj" />
+  <Project Path="LedgerCore/LedgerCore.csproj" />
+</Solution>
