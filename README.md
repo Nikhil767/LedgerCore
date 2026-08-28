@@ -25,7 +25,7 @@ dotnet --version
 ## Solution structure
 
 ```text
-LedgerCore.sln
+LedgerCore.slnx
 
 LedgerCore.Domain/
 LedgerCore.Engine/
@@ -112,6 +112,16 @@ You can find the output here:
 
 ```bash
 dotnet test
+```
+
+### 🐳 Docker (optional)
+
+```bash
+# Build image
+docker build -t ledger-core .
+
+# Run the console replay
+docker run --rm ledger-core
 ```
 
 The normal test run should pass. The deliberately failing assessment test is skipped so that the standard test command remains successful. Its purpose is documented inside `RequiredFailingTest.cs`.
