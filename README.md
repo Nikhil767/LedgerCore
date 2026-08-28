@@ -105,6 +105,9 @@ Active authorizations: ...
 Errors today: ...
 ```
 
+You can find the output here:
+[Output.txt](https://github.com/Nikhil767/LedgerCore/blob/main/Output.txt)
+
 ## Run tests
 
 ```bash

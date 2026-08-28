@@ -1,0 +1,90 @@
+
+=== Day 1 ===
+ACC-001
+Closing ledger balance: AED 250.00
+Available balance: AED 250.00
+Fee assessed today: None
+Active authorizations: none
+Errors today: none
+
+ACC-002
+Closing ledger balance: BHD 0.000
+Available balance: BHD 0.000
+Fee assessed today: None
+Active authorizations: none
+Errors today: none
+
+=== Day 2 ===
+ACC-001
+Closing ledger balance: AED 250.00
+Available balance: AED 250.00
+Fee assessed today: None
+Active authorizations: Auth-A=Settled
+Errors today: none
+
+ACC-002
+Closing ledger balance: BHD 0.000
+Available balance: BHD 0.000
+Fee assessed today: None
+Active authorizations: none
+Errors today: none
+
+=== Day 3 ===
+ACC-001
+Closing ledger balance: AED 650.00
+Available balance: AED 650.00
+Fee assessed today: None
+Active authorizations: Auth-A=Settled
+Errors today: none
+
+ACC-002
+Closing ledger balance: BHD 0.000
+Available balance: BHD 0.000
+Fee assessed today: None
+Active authorizations: none
+Errors today: none
+
+=== Day 4 ===
+ACC-001
+Closing ledger balance: AED 465.00
+Available balance: AED 465.00
+Fee assessed today: None
+Active authorizations: Auth-A=Settled
+Errors today: E6: Unknown or non-approved authorization: Auth-Z
+
+ACC-002
+Closing ledger balance: BHD 0.000
+Available balance: BHD 0.000
+Fee assessed today: None
+Active authorizations: none
+Errors today: E6: Unknown or non-approved authorization: Auth-Z
+
+=== Day 5 ===
+ACC-001
+Closing ledger balance: AED -180.00
+Available balance: AED -180.00
+Fee assessed today: AED 25.00
+Active authorizations: Auth-A=Settled; Auth-B=Declined
+Errors today: none
+
+ACC-002
+Closing ledger balance: BHD 10.000
+Available balance: BHD 10.000
+Fee assessed today: None
+Active authorizations: none
+Errors today: none
+
+=== Day 6 ===
+ACC-001
+Closing ledger balance: AED 440.84
+Available balance: AED 440.84
+Fee assessed today: None
+Active authorizations: Auth-A=Settled; Auth-B=Declined
+Errors today: none
+
+ACC-002
+Closing ledger balance: BHD 10.004
+Available balance: BHD 10.004
+Fee assessed today: None
+Active authorizations: none
+Errors today: none
