@@ -83,4 +83,9 @@ Timestamped notes of decisions, implementation steps, and tests.
 
 - Created docker file:
 
+## 2026-08-28 13:54
+
+- updated docker file
+- added .dockerignore file
+
 ---
