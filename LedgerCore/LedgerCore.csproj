@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LedgerCore.Domain\LedgerCore.Domain.csproj" />
+    <ProjectReference Include="..\LedgerCore.Engine\LedgerCore.Engine.csproj" />
+  </ItemGroup>
+
 </Project>
