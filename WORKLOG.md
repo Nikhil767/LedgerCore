@@ -88,4 +88,8 @@ Timestamped notes of decisions, implementation steps, and tests.
 - updated docker file
 - added .dockerignore file
 
+## 2026-08-28 16:05
+
+- Created Architecture & Trade-offs.md file
+
 ---
